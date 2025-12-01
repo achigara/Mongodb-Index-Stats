@@ -1,0 +1,12 @@
+{
+  "name": "mongodb-full-indexstats",
+  "version": "1.0.0",
+  "description": "Get index stats for all collections on all dbs on your mongodb instance",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "indexStats.js",
+  "dependencies": {
+    "mongodb": "^7.0.0"
+  }
+}
